@@ -4,7 +4,7 @@
 
 </p>
 <p align="center">
-<a href="#"><img title="VelzzyBOT Multi Device" src="https://img.shields.io/badge/VelzzyBOT Multi Device-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="AnggaBotz Multi Device" src="https://img.shields.io/badge/VelzzyBOT Multi Device-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://youtube.com/channel/UCLd-bhT8Dqq9PjGc6bWUVyg"><img title="Author" src="https://img.shields.io/badge/Author-Lexxy Official-red.svg?style=for-the-badge&logo=youtube"></a>
